@@ -5,8 +5,29 @@ __pycache__/
 
 # C extensions
 *.so
+*.jpg
+*.DS_store
+*.DS_Stor
+*.tfevents
+models/
+data/
+my_logs
+mylogs
+datasets/
+train/
+test/
+validation/
+input/
+output/
+runs/
+run
+*.csv
+*.tar.gz
+*.gz
+*.h5
 
 # Distribution / packaging
+*/Untitled.ipynb
 .Python
 build/
 develop-eggs/
